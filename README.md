@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Blockchain Recruiter at Enterprise Digital Resources
-- 👀 I’m interested in Web3 Ecosystem and finding people their dream job in the Blockchain space
+- 👀 I’m interested in Blockchain, Data, AI, Algo Trading, DeFi and DAOs
 - 🌱 I’m currently learning Python and a few other things
 - 💞️ If you are looking for a new project or a job, I can help
 - 📫 How to reach me:
